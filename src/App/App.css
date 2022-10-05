@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.50%; 
+}
+
+body{
+    font-size: 2rem;
+    background-color: #eee;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#root{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
